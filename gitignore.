@@ -1,0 +1,11 @@
+# Compiled executable
+Source
+
+# Generated output
+output.txt
+
+# Object files
+*.o
+
+# VS Code workspace settings (optional)
+.vscode/
