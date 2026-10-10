@@ -37,3 +37,7 @@ To display the output in the terminal instead:
 - `RepeatedWords.cpp` — C++ source code.
 - `salam.txt` — Sample input file.
 - `README.md` — Project documentation.
+
+## Author
+
+Created by MrBaji.
